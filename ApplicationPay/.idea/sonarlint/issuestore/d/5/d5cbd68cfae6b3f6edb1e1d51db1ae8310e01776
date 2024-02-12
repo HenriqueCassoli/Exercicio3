@@ -1,0 +1,10 @@
+
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8´Žû÷Ù1
+y
+java:S1104"WMake GrossSalary a static final constant or non-public and provide accessors if needed.(±â£§ÿÿÿÿÿ8´Žû÷Ù1
+l
+java:S1104"OMake Tax a static final constant or non-public and provide accessors if needed.(÷ëöø8µŽû÷Ù1
+w	java:S116"VRename this field "GrossSalary" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±â£§ÿÿÿÿÿ8¹Žû÷Ù1
+j	java:S116"NRename this field "Tax" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ëöø8¹Žû÷Ù1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¼µ¹8¼Žû÷Ù1
